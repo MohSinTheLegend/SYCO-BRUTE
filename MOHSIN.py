@@ -72,7 +72,7 @@ def masuk():
 	print ('\033[0;97m   2.\033[0;97m Login With Cookie Facebook')
 	print ('\033[0;97m   0.\033[0;97m Exit')
 	print ('\033[0;91m╚═══════════════════════════════════════════════════════════════╝')
-	Select_masuk()
+	_masuk()
 
 #### PILIH MASUK ####
 def pilih_masuk():

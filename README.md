@@ -9,7 +9,7 @@
 
 # RUN ON TERMUX 
 ```
-python
+
 * apt update -y
 * apt upgrade
 * apt install git -y
@@ -31,7 +31,7 @@ SYCO
 
 # TESTED ON
 ```
-* Termux
+* TERMUX
 ```
 
 # NOTE

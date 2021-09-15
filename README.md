@@ -4,16 +4,17 @@
 ```
 * THIS TOOL IS ABOUT OF RANDOM Facebook CLONING.
 * You CAN Cloning With B_api Method, OLD IDZ CLONING And Also WITHOUT LOGIN Cloning. 
-* You can cloning FriendList, PUBLIC ID and also FILE  Cloning ADDED. 
-
+* You can cloning FriendList, PUBLIC ID and also FILE  Cloning ADDED.
+```
 
 # RUN ON TERMUX 
 ```
+python
 * apt update -y
 * apt upgrade
 * apt install git -y
 * apt install python2 -y
-* rm -rf Abm-Pro
+* rm -rf SYCO-BRUTE
 * git clone https://github.com/MohSinTheLegend/SYCO-BRUTE
 * cd SYCO-BRUTE
 * pip2 install requests
@@ -21,7 +22,7 @@
 * python2 Brute.py
 ```
 
-#TOOL USER NAME PASSWORD
+# TOOL USER NAME PASSWORD
 
 ```
 MOHSIN
